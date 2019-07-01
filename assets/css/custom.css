@@ -1,0 +1,17 @@
+body .page-container .sidebar-menu {
+    background: #6d2424 !important;
+    color: #056D80;
+}
+
+
+body .page-container .sidebar-menu #main-menu li a:hover {
+    background-color: #bb3636 !important;
+}
+
+body .page-container .sidebar-menu #main-menu li.active > a {
+    background: #bb3636 !important;
+}
+
+body .page-container .sidebar-menu #main-menu li ul > li > a {
+    background-color: rgba(236, 122, 122, 0.36) !important;
+}
